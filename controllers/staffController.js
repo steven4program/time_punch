@@ -89,6 +89,18 @@ const staffController = {
     } catch (err) {
       console.log(err)
     }
+  },
+
+  getStaff: async (req, res) => {
+    try {
+      const staff = await Staff.findByPk(req.params.id)
+      if (!staff) {
+        return res.json({ status: 'error', message: 'no such user found' })
+      }
+      return res.json(staff)
+    } catch (err) {
+      console.log(err)
+    }
   }
 }
 
