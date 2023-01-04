@@ -14,8 +14,7 @@ const punchController = {
       // format current time to send to the front-end
       const formatCurrentTime = dayjs().format('YYYY-MM-DDTHH:mm:ss')
       const hour = currentTime.format('HH:mm:ss')
-      const date = currentTime.format('YYYY-MM-DD')
-
+      const date = currentTime.add(-5, 'h').format('YYYY-MM-DD')
       // check if already punch today
       const punchInCheck = await Punch.findOne({
         where: { date, staffId }
