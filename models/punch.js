@@ -13,7 +13,8 @@ module.exports = (sequelize, DataTypes) => {
       date: DataTypes.DATEONLY,
       hours: DataTypes.INTEGER,
       punchInTime: DataTypes.STRING,
-      punchOutTime: DataTypes.STRING
+      punchOutTime: DataTypes.STRING,
+      attendance: DataTypes.BOOLEAN
     },
     {
       sequelize,
