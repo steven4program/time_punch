@@ -9,12 +9,16 @@ module.exports = (sequelize, DataTypes) => {
   }
   Punch.init(
     {
-      punchIn_time: DataTypes.DATE,
-      punchOut_time: DataTypes.DATE
+      staffId: DataTypes.INTEGER,
+      date: DataTypes.DATEONLY,
+      hours: DataTypes.INTEGER,
+      punchInTime: DataTypes.STRING,
+      punchOutTime: DataTypes.STRING
     },
     {
       sequelize,
-      modelName: 'Punch'
+      modelName: 'Punch',
+      tableName: 'Punches'
     }
   )
   return Punch

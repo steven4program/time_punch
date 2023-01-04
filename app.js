@@ -7,9 +7,11 @@ const PORT = process.env.PORT
 /* Necessary Packages  */
 const express = require('express')
 const methodOverride = require('method-override')
+const cors = require('cors')
 
 /* App use */
 const app = express()
+app.use(cors())
 app.use(express.urlencoded({ extended: true }))
 app.use(express.json())
 app.use(methodOverride('_method'))

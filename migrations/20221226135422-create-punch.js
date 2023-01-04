@@ -9,11 +9,11 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
-      punchIn_time: {
-        type: Sequelize.DATE
+      punchInTime: {
+        type: Sequelize.STRING
       },
-      punchOut_time: {
-        type: Sequelize.DATE
+      punchOutTime: {
+        type: Sequelize.STRING
       },
       createdAt: {
         allowNull: false,
