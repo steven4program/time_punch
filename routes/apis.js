@@ -10,9 +10,11 @@ const punchController = require('../controllers/punchController')
 const authenticated = require('../middleware/auth')
 
 /* Staffs */
+router.get('/get_current_staff', authenticated, staffController.getCurrentStaff)
 router.post('/staffs/login', staffController.login)
 router.post('/staffs', staffController.register)
 router.get('/staffs/:id', authenticated, staffController.getStaff)
 router.post('/punchin', authenticated, punchController.punch)
+router.get('/', authenticated)
 
 module.exports = router

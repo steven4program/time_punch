@@ -1,9 +1,9 @@
 'use strict'
 const bcrypt = require('bcryptjs')
 const SEED_STAFF = {
-  name: 'root',
-  email: 'root@example.com',
-  password: '12345678'
+  name: 'titaner',
+  email: 'titaner@example.com',
+  password: 'titaner'
 }
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {

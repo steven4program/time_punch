@@ -101,6 +101,18 @@ const staffController = {
     } catch (err) {
       console.log(err)
     }
+  },
+
+  getCurrentStaff: async (req, res) => {
+    try {
+      return res.json({
+        id: req.staff.id,
+        name: req.staff.name,
+        email: req.staff.email
+      })
+    } catch (err) {
+      console.log(err)
+    }
   }
 }
 
