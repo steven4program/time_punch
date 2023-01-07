@@ -14,7 +14,7 @@ router.get('/get_current_staff', authenticated, staffController.getCurrentStaff)
 router.post('/staffs/login', staffController.login)
 router.post('/staffs', staffController.register)
 router.get('/staffs/:id', authenticated, staffController.getStaff)
-router.post('/punchin', authenticated, punchController.punch)
+router.post('/punch', authenticated, punchController.punch)
 router.get('/', authenticated)
 
 module.exports = router

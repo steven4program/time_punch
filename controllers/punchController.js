@@ -14,6 +14,7 @@ const punchController = {
       // format current time to send to the front-end
       const formatCurrentTime = dayjs().format('YYYY-MM-DDTHH:mm:ss')
       const hour = currentTime.format('HH:mm:ss')
+
       // modify date to set the Day-changing time at 5:00 GMT
       const date = currentTime.add(-5, 'h').format('YYYY-MM-DD')
       // check if already punch today
@@ -44,36 +45,45 @@ const punchController = {
               }
             }
           )
-          // if working hours more than 8
-        } else {
-          await Punch.update(
-            {
-              punchOutTime: hour,
-              hours: workingHours,
-              // attendance is considered valid
-              attendance: true
-            },
-            {
-              where: {
-                staffId,
-                date
-              }
-            }
-          )
+          return res.json({
+            formatCurrentTime,
+            status: 'success',
+            message: 'Punch out, working hours less than 8'
+          })
         }
-        // if not yet punch today, then punch in
-      } else {
-        await Punch.create({
-          staffId,
-          punchInTime: hour,
-          date: date
+
+        // if working hours more than 8
+        await Punch.update(
+          {
+            punchOutTime: hour,
+            hours: workingHours,
+            // attendance is considered valid
+            attendance: true
+          },
+          {
+            where: {
+              staffId,
+              date
+            }
+          }
+        )
+        return res.json({
+          formatCurrentTime,
+          status: 'success',
+          message: 'Punch out successfully'
         })
       }
-      // return package to front-end
+
+      // if no punch record today, then punch in
+      await Punch.create({
+        staffId,
+        punchInTime: hour,
+        date: date
+      })
       return res.json({
         formatCurrentTime,
         status: 'success',
-        message: 'Punch successfully'
+        message: 'Punch in successfully'
       })
     } catch (error) {
       console.error(error)
