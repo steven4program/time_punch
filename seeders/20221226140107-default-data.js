@@ -2,6 +2,7 @@
 const bcrypt = require('bcryptjs')
 const SEED_STAFF = [
   {
+    id: 1,
     name: 'tiadmin',
     email: 'tiadmin@example.com',
     password: 'tiadmin',
@@ -9,6 +10,7 @@ const SEED_STAFF = [
     isAdmin: true
   },
   {
+    id: 2,
     name: 'titaner',
     email: 'titaner@example.com',
     password: 'titaner',
@@ -23,6 +25,7 @@ module.exports = {
       'Staffs',
       SEED_STAFF.map((staff) => {
         return {
+          id: staff.id,
           name: staff.name,
           email: staff.email,
           password: bcrypt.hashSync(

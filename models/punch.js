@@ -9,6 +9,11 @@ module.exports = (sequelize, DataTypes) => {
   }
   Punch.init(
     {
+      id: {
+        autoIncrement: true,
+        primaryKey: true,
+        type: DataTypes.INTEGER
+      },
       staffId: DataTypes.INTEGER,
       date: DataTypes.DATEONLY,
       hours: DataTypes.INTEGER,

@@ -12,7 +12,7 @@ const punchController = {
       // get current time
       const currentTime = dayjs()
       // format current time to send to the front-end
-      const formatCurrentTime = dayjs().format('YYYY-MM-DDTHH:mm:ss')
+      const formatCurrentTime = dayjs().format('MM-DD HH:mm:ss')
       const hour = currentTime.format('HH:mm:ss')
 
       // modify date to set the Day-changing time at 5:00 GMT
@@ -88,6 +88,13 @@ const punchController = {
     } catch (error) {
       console.error(error)
     }
+  },
+  qrcodePunch: async (req, res, next) => {
+    return res.json({
+      formatCurrentTime,
+      status: 'success',
+      message: 'Punch in successfully'
+    })
   }
 }
 

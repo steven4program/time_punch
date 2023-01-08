@@ -12,9 +12,15 @@ const authenticated = require('../middleware/auth')
 /* Staffs */
 router.get('/get_current_staff', authenticated, staffController.getCurrentStaff)
 router.post('/staffs/login', staffController.login)
+router.post(
+  '/staffs/new_password',
+  authenticated,
+  staffController.changPassword
+)
 router.post('/staffs', staffController.register)
 router.get('/staffs/:id', authenticated, staffController.getStaff)
 router.post('/punch', authenticated, punchController.punch)
+// router.get('/qrcode_punch', punchController.qrcodePunch, punchController.punch)
 router.get('/', authenticated)
 
 module.exports = router

@@ -10,10 +10,11 @@ const staffController = {
   login: async (req, res) => {
     try {
       const { email, password } = req.body
+      console.log(email, password)
       if (!email || !password) {
         return res.json({
           status: 'error',
-          message: '信箱及密碼不可空白'
+          message: 'Email and Password are both required'
         })
       }
 
@@ -46,7 +47,7 @@ const staffController = {
       })
       return res.json({
         status: 'success',
-        message: 'login successful',
+        message: 'login successfully',
         token,
         staff: {
           id: staff.id,
@@ -95,13 +96,11 @@ const staffController = {
       await Staff.create({
         name,
         email,
-        password: bcrypt.hashSync(
-          req.body.password,
-          bcrypt.genSaltSync(10),
-          null
-        )
+        password: bcrypt.hashSync(password, bcrypt.genSaltSync(10), null)
       })
-      return res.status(200).json({ status: 'success', message: '註冊成功!' })
+      return res
+        .status(200)
+        .json({ status: 'success', message: 'Register Successfully' })
     } catch (err) {
       console.log(err)
     }
@@ -129,6 +128,40 @@ const staffController = {
     } catch (err) {
       console.log(err)
     }
+  },
+
+  changPassword: async (req, res) => {
+    const { password, newPassword, email } = req.body
+    console.log(
+      `password : ${password}`,
+      `newPassword : ${newPassword}`,
+      `email : ${email}`
+    )
+    if (!password || !newPassword || !email) {
+      return res.json({
+        status: 'error',
+        message: 'All field are required'
+      })
+    }
+
+    const staff = await Staff.findOne({ where: { email } })
+
+    console.log(password, staff.password)
+
+    if (!bcrypt.compareSync(password, staff.password)) {
+      return res
+        .status(401)
+        .json({ status: 'error', message: 'Password incorrect' })
+    }
+
+    await staff.update({
+      password: bcrypt.hashSync(newPassword, bcrypt.genSaltSync(10), null)
+    })
+
+    return res.status(200).json({
+      status: 'success',
+      message: 'Password changed successfully, please login again'
+    })
   }
 }
 
