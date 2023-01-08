@@ -15,7 +15,7 @@ router.post('/staffs/login', staffController.login)
 router.post(
   '/staffs/new_password',
   authenticated,
-  staffController.changPassword
+  staffController.changePassword
 )
 router.post('/staffs', staffController.register)
 router.get('/staffs/:id', authenticated, staffController.getStaff)

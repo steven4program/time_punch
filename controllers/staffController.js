@@ -130,7 +130,7 @@ const staffController = {
     }
   },
 
-  changPassword: async (req, res) => {
+  changePassword: async (req, res) => {
     const { password, newPassword, email } = req.body
     console.log(
       `password : ${password}`,

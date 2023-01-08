@@ -1,0 +1,1462 @@
+[
+  {
+    "date": "2023-01-01",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-02",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-03",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-04",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-05",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-06",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-07",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-08",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-09",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-10",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-11",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-12",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-13",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-14",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-15",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-16",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-17",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-18",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-19",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-20",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-21",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-22",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-23",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-24",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-25",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-26",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-27",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-28",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-29",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-01-30",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-01-31",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-01",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-02",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-03",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-04",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-05",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-02-06",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-07",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-08",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-09",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-10",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-11",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-02-12",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-02-13",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-14",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-15",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-16",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-17",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-18",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-19",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-02-20",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-21",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-22",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-23",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-24",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-02-25",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-02-26",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-02-27",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-02-28",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-03-01",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-02",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-03",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-04",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-03-05",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-03-06",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-07",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-08",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-09",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-10",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-11",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-03-12",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-03-13",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-14",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-15",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-16",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-17",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-18",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-03-19",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-03-20",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-21",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-22",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-23",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-24",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-25",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-26",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-03-27",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-28",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-29",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-30",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-03-31",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-01",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-02",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-03",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-04",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-05",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-06",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-07",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-08",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-09",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-10",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-11",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-12",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-13",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-14",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-15",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-16",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-17",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-18",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-19",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-20",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-21",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-22",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-23",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-24",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-25",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-26",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-27",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-28",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-04-29",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-04-30",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-05-01",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-02",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-03",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-04",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-05",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-06",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-05-07",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-05-08",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-09",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-10",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-11",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-12",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-13",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-05-14",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-05-15",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-16",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-17",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-18",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-19",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-20",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-05-21",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-05-22",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-23",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-24",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-25",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-26",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-27",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-05-28",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-05-29",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-30",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-05-31",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-01",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-02",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-03",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-06-04",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-06-05",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-06",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-07",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-08",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-09",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-10",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-06-11",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-06-12",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-13",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-14",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-15",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-16",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-17",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-18",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-06-19",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-20",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-21",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-22",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-06-23",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-06-24",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-06-25",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-06-26",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-27",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-28",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-29",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-06-30",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-01",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-07-02",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-07-03",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-04",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-05",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-06",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-07",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-08",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-07-09",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-07-10",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-11",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-12",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-13",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-14",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-15",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-07-16",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-07-17",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-18",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-19",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-20",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-21",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-22",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-07-23",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-07-24",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-25",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-26",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-27",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-28",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-07-29",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-07-30",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-07-31",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-01",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-02",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-03",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-04",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-05",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-08-06",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-08-07",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-08",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-09",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-10",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-11",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-12",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-08-13",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-08-14",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-15",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-16",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-17",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-18",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-19",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-08-20",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-08-21",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-22",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-23",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-24",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-25",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-26",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-08-27",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-08-28",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-29",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-30",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-08-31",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-01",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-02",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-09-03",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-09-04",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-05",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-06",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-07",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-08",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-09",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-09-10",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-09-11",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-12",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-13",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-14",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-15",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-16",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-09-17",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-09-18",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-19",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-20",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-21",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-22",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-23",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-24",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-09-25",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-26",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-27",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-28",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-09-29",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-09-30",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-01",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-02",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-03",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-04",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-05",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-06",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-07",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-08",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-09",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-10",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-11",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-12",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-13",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-14",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-15",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-16",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-17",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-18",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-19",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-20",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-21",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-22",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-23",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-24",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-25",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-26",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-27",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-28",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-29",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-10-30",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-10-31",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-01",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-02",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-03",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-04",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-11-05",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-11-06",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-07",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-08",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-09",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-10",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-11",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-11-12",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-11-13",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-14",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-15",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-16",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-17",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-18",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-11-19",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-11-20",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-21",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-22",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-23",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-24",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-25",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-11-26",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-11-27",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-28",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-29",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-11-30",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-01",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-02",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-12-03",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-12-04",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-05",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-06",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-07",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-08",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-09",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-12-10",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-12-11",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-12",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-13",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-14",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-15",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-16",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-12-17",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-12-18",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-19",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-20",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-21",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-22",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-23",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-12-24",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-12-25",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-26",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-27",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-28",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-29",
+    "isHoliday": 0
+  },
+  {
+    "date": "2023-12-30",
+    "isHoliday": 1
+  },
+  {
+    "date": "2023-12-31",
+    "isHoliday": 1
+  }
+]
