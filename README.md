@@ -3,14 +3,18 @@
 此專案提供 API 給[前台](https://steven4program.github.io/time-punch-vue)使用
 
 # 功能
-
+- 員工
 - 員工可以登入及修改密碼
+- 輸入密碼錯誤5次，帳號即會被鎖住
 - 員工登入後可以打卡
-- 打卡可使用一般按鈕或是QRcode掃碼進行打卡
-- 管理者有專用帳戶登入
-- 只有管理者可以生成QRcode供員工打卡
+- 打卡可使用一般按鈕進行打卡 --QRcode掃碼尚未實作
 
-# 測試種子資料
+管理者
+- 管理者有專用帳戶登入
+- 只有管理者可以生成QRcode供員工打卡 --功能尚未實作
+
+
+# 種子資料
 
 ```
 
@@ -52,7 +56,8 @@ npm install
 4. 將.env.example 改為.env，並改為自己的設定
 
 ```
-JWT_SECRET=SKIP
+JWT_SECRET=SKIIP
+PORT=3000
 
 ```
 
