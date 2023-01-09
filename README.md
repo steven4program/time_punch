@@ -3,7 +3,7 @@
 此專案提供 API 給[前台](https://steven4program.github.io/time-punch-vue)使用
 
 # 功能
-- 員工
+員工
 - 員工可以登入及修改密碼
 - 輸入密碼錯誤5次，帳號即會被鎖住
 - 員工登入後可以打卡
